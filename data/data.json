@@ -1,61 +1,65 @@
 {
-    "estudiantes": [
-      {
-        "id": 1,
-        "status": "Offline",
-        "nombre": "Estudiante 01",
-        "usuario": "Est01",
-        "email": "estudiante01@gmail.com",
-        "movil": "602488895",
-        "inscripcion": "12-06-1987"
+  "estudiantes": [
+    {
+      "id": 1,
+      "status": "Offline",
+      "nombre": "Estudiante",
+      "apellido": "01",
+      "usuario": "Est01",
+      "email": "estudiante01@gmail.com",
+      "movil": "602488895",
+      "inscripcion": "1987-06-12"
     },
     {
-        "id": 2,
-        "status": "Offline",
-        "nombre": "Estudiante 02",
-        "usuario": "Est02",
-        "email": "estudiante02@gmail.com",
-        "movil": "64875557",
-        "inscripcion": "08-11-1949"
+      "id": 2,
+      "status": "Offline",
+      "nombre": "Estudiante",
+      "apellido": "02",
+      "usuario": "Est02",
+      "email": "estudiante02@gmail.com",
+      "movil": "64875557",
+      "inscripcion": "1949-11-08"
     },
     {
-        "id": 3,
-        "status": "Online",
-        "nombre": "Estudiante 03",
-        "usuario": "Est03",
-        "email": "estudiante03@gmail.com",
-        "movil": "614795514",
-        "inscripcion": "01-02-2019"
+      "id": 3,
+      "status": "Online",
+      "nombre": "Estudiante",
+      "apellido": "03",
+      "usuario": "Est03",
+      "email": "estudiante03@gmail.com",
+      "movil": "614795514",
+      "inscripcion": "2019-01-24"
     },
     {
-        "id": 4,
-        "status": "Offline",
-        "nombre": "Estudiante 04",
-        "usuario": "Est04",
-        "email": "estudiante04@gmail.com",
-        "movil": "974211478",
-        "inscripcion": "22-11-2020"
+      "id": 4,
+      "status": "Offline",
+      "nombre": "Estudiante",
+      "apellido": "04",
+      "usuario": "Est04",
+      "email": "estudiante04@gmail.com",
+      "movil": "974211478",
+      "inscripcion": "2020-04-01"
     },
     {
-        "id": 5,
-        "status": "Online",
-        "nombre": "Estudiante 05",
-        "usuario": "Est05",
-        "email": "estudiante05@gmail.com",
-        "movil": "647233314",
-        "inscripcion": "13-04-2019"
+      "id": 5,
+      "status": "Online",
+      "nombre": "Estudiante",
+      "apellido": "05",
+      "usuario": "Est05",
+      "email": "estudiante05@gmail.com",
+      "movil": "647233314",
+      "inscripcion": "2019-04-03"
     },
     {
-        "id": 6,
-        "status": "Offline",
-        "nombre": "Estudiante 06",
-        "usuario": "Est06",
-        "email": "estudiante06@gmail.com",
-        "movil": "65554899",
-        "inscripcion": "28-02-2019"
+      "id": 6,
+      "status": "Offline",
+      "nombre": "Estudiante",
+      "apellido": "06",
+      "usuario": "Est06",
+      "email": "estudiante06@gmail.com",
+      "movil": "65554899",
+      "inscripcion": "2019-02-28"
     }
-
-
-
-    ]
+    
+  ]
 }
