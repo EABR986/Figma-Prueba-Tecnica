@@ -1,0 +1,143 @@
+
+.navBar{
+    display:flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-top: 34px;
+    font-family: 'Poppins', sans-serif;
+    height: 1024px;
+width: 223px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+/* border:  rgb(0, 0, 0) 1px solid; */
+padding-left: 22px;
+padding-right: 22px;
+}
+
+.btnHat{
+    width: 36px;
+    height:35px;
+    top: 14px;
+    left: 17px;
+}
+.navAcademia{
+display: flex;
+height: 50px;
+width: 180px;
+left: 21px;
+top: 211px;
+border-radius: 8px;
+box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2);
+gap: 10px;
+font-size: 15px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+justify-content: center;
+    align-items: center;
+    margin-top:23px
+
+}
+.navDashboard{
+display: flex;
+justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    height: 50px;
+width: 180px;
+left: 21px;
+top: 34px;
+border-radius: 8px;
+line-height: 22px;
+letter-spacing: 0em;
+}
+
+.navEditar{
+ margin-top: 23px;
+ margin-left: 61px;
+font-size: 12px;
+line-height: 22px;
+letter-spacing: 0.05rem;
+text-align: left;
+font-weight: 400;
+
+}
+
+.navEstudiantes{
+    margin-top: 22px;
+    margin-left: 61px;
+   font-size: 12px;
+   line-height: 22px;
+   letter-spacing: 0.05rem;
+   text-align: left;
+   font-weight: 400;
+
+}
+.navProfesores{
+    margin-top: 22px;
+    margin-left: 61px;
+   font-size: 12px;
+   line-height: 22px;
+   letter-spacing: 0.05rem;
+   text-align: left;
+   font-weight: 400;
+
+}
+.navEditar:hover{
+    color: #0ABB87;
+}
+.navProfesores:hover{
+    color: #0ABB87;
+}  
+.navEstudiantes:hover{
+    color: #0ABB87;
+}
+
+.navCursos{
+    display:flex;
+    gap: 19px;
+    font-family: Poppins;
+font-size: 15px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 21px;
+margin-top: 50px;
+margin-bottom: 581px;
+
+}
+
+.btnBook{
+    height: 25px;
+width: 21px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+}
+
+.navAjustes{
+    display:flex;
+    gap: 15.7px;
+    font-family: Poppins;
+    font-family: Poppins;
+font-size: 15px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.btnSettings{
+    height: 24px;
+width: 22.603391647338867px;
+left: 0.697998046875px;
+top: 0px;
+border-radius: 0px;
+margin-left: 21px;
+}

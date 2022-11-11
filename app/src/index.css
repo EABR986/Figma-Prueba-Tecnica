@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family :  'Montserrat' ;
+   font-weight: 100;
+  src :url('/Fonts/Montserrat-Regular.ttf');
+}
+
+* {
+  font-family: 'Montserrat', sans-serif ;
+}
+.iniciar{
+  font-family: 'Poppins', sans-serif;
+  
+font-size: 13px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.container{
+  display: flex;
+}

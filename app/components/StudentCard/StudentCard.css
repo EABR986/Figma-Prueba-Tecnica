@@ -1,0 +1,101 @@
+
+
+.Studentlabel{
+        height: 40px;
+width: 98%;
+left: 255px;
+top: 253px;
+border-radius: nullpx;
+border-bottom: rgba(38, 45, 52, 1) 2px solid;
+margin-left: 29px;
+margin-top: 29px;
+display: flex;
+font-family: Poppins;
+font-size: 13px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+align-items: center;
+   border-bottom:  rgba(205, 205, 205, 1) 1px solid;
+   padding-bottom: 17px;
+
+}
+
+.StudentConexion{
+    margin-left: 20px;
+    font-family: Poppins;
+font-size: 10px;
+font-weight: 300;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+box-sizing: border-box;
+display: flex;
+border: 0.5px solid rgba(158, 158, 158, 1);
+height: 18px;
+width: 45px;
+left: 280px;
+top: 391px;
+border-radius: 5px;
+justify-content: center;
+align-items: center;
+background: #F0F4F3;
+
+}
+
+.Online{
+    background: rgba(10, 187, 135, 1);
+    color: rgba(255, 255, 255, 1);
+}
+.StudentConexion{
+    margin-left: 21.53px;
+   
+}
+.StudentNombre{
+    margin-left:7.2%;
+    font-family: 'Montserrat', sans-serif;
+font-size: 13px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.StudentUsuario{
+    margin-left: 13%;
+    font-family: Montserrat;
+font-size: 13px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.StudentEmail{
+    margin-left: 21%;
+    font-family: Montserrat;
+font-size: 13px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.StudentMovil{
+    margin-left: 15%;
+    font-family: Montserrat;
+font-size: 13px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.InfoBtn{
+    height: 24px;
+width: 24px;
+margin-left: 8%;
+
+}

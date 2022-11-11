@@ -1,0 +1,22 @@
+
+.addEstudiante{
+    height: 50px;
+    width: 175px;
+    left: 252px;
+    top: 132px;
+    border-radius: 8px;
+    background-color: rgba(10, 187, 135, 1);
+    font-family: Poppins;
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.01em;
+text-align: center;
+color: rgba(255, 255, 255, 1);
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 35px;
+margin-left: 25px;
+gap:5.7px;
+}

@@ -1,0 +1,34 @@
+.label{
+    height: 40px;
+width: 98%;
+left: 255px;
+top: 253px;
+border-radius: nullpx;
+border-bottom: rgba(38, 45, 52, 1) 2px solid;
+margin-left: 29px;
+margin-top: 29px;
+display: flex;
+font-family: Poppins;
+font-size: 13px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+align-items: center;
+
+}
+.Conexion{
+    margin-left: 21.53px;
+}
+.Nombre{
+    margin-left:6%;
+}
+.Usuario{
+    margin-left: 10%;
+}
+.Email{
+    margin-left: 14%;
+}
+.Movil{
+    margin-left: 25%;
+}
