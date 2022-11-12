@@ -24,6 +24,13 @@ const Modal = ({ open, onClose }) => {
       email: email,
       movil: movil,
       inscripcion: inscripcion,
+      cursos: {
+        curso01: 0,
+        curso02: 0,
+        curso03: 0,
+        curso04: 0,
+        curso05: 0,
+      },
     };
     postStudent(estudiante);
   };

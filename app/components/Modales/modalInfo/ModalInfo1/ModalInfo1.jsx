@@ -48,7 +48,14 @@ const ModalInfo1 = (props) => {
       {' '}
       <div className="header">
         <button className="Perfil">Perfil</button>
-        <button className="Cursos">Cursos</button>
+        <button
+          className="Cursos"
+          onClick={() => {
+            setPage(2);
+          }}
+        >
+          Cursos
+        </button>
         <button
           className="cancelar"
           onClick={() => {

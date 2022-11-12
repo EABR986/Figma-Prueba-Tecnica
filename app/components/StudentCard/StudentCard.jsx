@@ -24,12 +24,12 @@ const StudentCard = () => {
         console.log(err);
       });
   }, []);
-  console.log(student);
+
   return (
     <>
       {student.map((student) => (
-        <div className="Studentlabel">
-          <StudentConexionLabel student={student} />  
+        <div key={student.id} className="Studentlabel">
+          <StudentConexionLabel student={student} />
           <StudentNombreLabel student={student} />
           <StudentUsuario student={student} />
           <StudentEmail student={student} />
