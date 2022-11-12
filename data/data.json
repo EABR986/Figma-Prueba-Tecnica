@@ -8,7 +8,15 @@
       "usuario": "Est01",
       "email": "estudiante01@gmail.com",
       "movil": "602488895",
-      "inscripcion": "1987-06-12"
+      "inscripcion": "1987-06-12",
+      "cursos":{
+        "curso01": 30,
+        "curso02": 50,
+        "curso03": 10,
+        "curso04": 98,
+        "curso05": 40
+        
+         }
     },
     {
       "id": 2,
@@ -18,7 +26,15 @@
       "usuario": "Est02",
       "email": "estudiante02@gmail.com",
       "movil": "64875557",
-      "inscripcion": "1949-11-08"
+      "inscripcion": "1949-11-08",
+      "cursos":{
+        "curso01": 30,
+        "curso02": 70,
+        "curso03": 30,
+        "curso04": 60,
+        "curso05":80
+        
+         }
     },
     {
       "id": 3,
@@ -28,7 +44,15 @@
       "usuario": "Est03",
       "email": "estudiante03@gmail.com",
       "movil": "614795514",
-      "inscripcion": "2019-01-24"
+      "inscripcion": "2019-01-24",
+      "cursos":{
+        "curso01": 20,
+        "curso02": 90,
+        "curso03": 50,
+        "curso04": 10,
+        "curso05": 70
+        
+         }
     },
     {
       "id": 4,
@@ -38,7 +62,16 @@
       "usuario": "Est04",
       "email": "estudiante04@gmail.com",
       "movil": "974211478",
-      "inscripcion": "2020-04-01"
+      "inscripcion": "2020-04-01",
+      "cursos":{
+        "curso01": 30,
+        "curso02": 60,
+        "curso03": 10,
+        "curso04": 50,
+        "curso05": 50
+        
+         }
+
     },
     {
       "id": 5,
@@ -48,7 +81,15 @@
       "usuario": "Est05",
       "email": "estudiante05@gmail.com",
       "movil": "647233314",
-      "inscripcion": "2019-04-03"
+      "inscripcion": "2019-04-03",
+      "cursos":{
+        "curso01": 40,
+        "curso02": 90,
+        "curso03": 10,
+        "curso04": 50,
+        "curso05": 10
+        
+         }
     },
     {
       "id": 6,
@@ -58,7 +99,15 @@
       "usuario": "Est06",
       "email": "estudiante06@gmail.com",
       "movil": "65554899",
-      "inscripcion": "2019-02-28"
+      "inscripcion": "2019-02-28",
+      "cursos":{
+        "curso01": 35,
+        "curso02": 40,
+        "curso03": 90,
+        "curso04": 98,
+        "curso05": 10
+        
+         }
     }
     
   ]

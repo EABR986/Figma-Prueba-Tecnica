@@ -39,6 +39,7 @@
 .Cursos {
   margin-left: 15px;
   margin-top: 19px;
+  margin-bottom: 10px;
 }
 .editar {
   margin-left: 189px;
@@ -168,4 +169,74 @@ padding-bottom: 8px;
 }
 .modalClose{
  margin-left: 385px;
+}
+.guardar{
+  margin-left: 8px;
+  margin-top: 19px;
+  margin-right: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 16px;
+  background: #262d34;
+  width: 91px;
+height: 32px;
+  box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+  border-radius: 5px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  color: #ffffff;
+}
+.guardar:hover{
+  background: #0ABB87;
+  color: #000000;
+}
+.cancelar:hover{
+  background: #0ABB87;
+  color: #000000;
+}
+
+.cancelar{
+  margin-left: 80px;
+  margin-top: 19px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 16px;
+  background: #fff;
+  width: 152px;
+  height: 32px;
+  border: 1px solid #262D34;
+  box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+  border-radius: 5px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  color: #262D34;
+}
+.movilDivEdit{
+  margin-bottom:166px;
+}
+.editar:hover{
+  background: #0ABB87;
+  color: #000000;
+}
+.progreso[value]{
+  width: 384px;
+  height: 12px;
+  appearance: none;
+  -webkit-appearance: none;
+}
+progress[value]::-webkit-progress-bar {
+  background: #F0F4F3;
+  border-radius: 10px;
+}
+progress[value]::-webkit-progress-value {
+  background: linear-gradient(90deg, #0ABB87 6.77%, #6FD466 93.23%);
+  border-radius: 10px;
 }
