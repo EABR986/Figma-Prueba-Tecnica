@@ -1,2 +1,2 @@
 # Figma-Prueba-Tecnica
-This is an interview test that need to be done in pixel perfect form
+--- INICIALIZACION DEL PROYECTO--- ** DESCARGA DEL REPOSITORIO** ** INSTALACION DE DEPENDENCIAS 'npm i' ** **EJECUCION DEL VITE CON 'npm run dev' DESDE LA CARPETA APP ** ** EN CONSOLA PARTE INICIALIZACION DEL JASON SERVER CON EL ARCHIVO json-server data.json DESDE LA CARPETA DATA **
