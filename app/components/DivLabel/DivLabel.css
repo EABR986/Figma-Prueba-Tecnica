@@ -1,8 +1,7 @@
 .label{
     height: 40px;
-width: 98%;
-left: 255px;
-top: 253px;
+width: 80%;
+
 border-radius: nullpx;
 border-bottom: rgba(38, 45, 52, 1) 2px solid;
 margin-left: 29px;
@@ -18,17 +17,18 @@ align-items: center;
 
 }
 .Conexion{
-    margin-left: 21.53px;
+    margin-left: 2%;
 }
 .Nombre{
     margin-left:6%;
+    width: 25%;
 }
 .Usuario{
-    margin-left: 10%;
+    width: 20%;
 }
 .Email{
-    margin-left: 14%;
+    width: 25%;
 }
 .Movil{
-    margin-left: 25%;
+    width: 16%;
 }

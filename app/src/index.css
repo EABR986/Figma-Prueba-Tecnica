@@ -22,6 +22,18 @@ text-align: center;
 
 }
 
-.container{
+.containers{
   display: flex;
+}
+
+@media screen and (max-width: 1391px) {
+  .navBuscar{
+    width:40%;
+  }
+
+}
+@media screen and (min-width: 1392px) {
+  .navBuscar{
+    width:64%;
+  }
 }

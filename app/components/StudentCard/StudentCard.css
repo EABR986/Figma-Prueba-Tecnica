@@ -2,8 +2,8 @@
 
 .Studentlabel{
         height: 40px;
-width: 98%;
-left: 255px;
+width: 81%;
+
 top: 253px;
 border-radius: nullpx;
 border-bottom: rgba(38, 45, 52, 1) 2px solid;
@@ -55,6 +55,7 @@ background: #F0F4F3;
 .StudentNombre{
     margin-left:7.2%;
     font-family: 'Montserrat', sans-serif;
+    width: 26%;
 font-size: 13px;
 font-weight: 400;
 line-height: 24px;
@@ -63,7 +64,7 @@ text-align: left;
 
 }
 .StudentUsuario{
-    margin-left: 13%;
+    width: 20%;
     font-family: Montserrat;
 font-size: 13px;
 font-weight: 400;
@@ -73,7 +74,7 @@ text-align: left;
 
 }
 .StudentEmail{
-    margin-left: 21%;
+    width: 26%;
     font-family: Montserrat;
 font-size: 13px;
 font-weight: 400;
@@ -83,7 +84,7 @@ text-align: left;
 
 }
 .StudentMovil{
-    margin-left: 15%;
+    width: 17%;
     font-family: Montserrat;
 font-size: 13px;
 font-weight: 400;
@@ -96,6 +97,5 @@ text-align: left;
 .InfoBtn{
     height: 24px;
 width: 24px;
-margin-left: 8%;
 
 }

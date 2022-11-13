@@ -6,7 +6,7 @@ function Estudiantes() {
   return (
     <>
       <Base />
-      <div className="container">
+      <div className="containers">
         <Navigation />
         <Lista />
       </div>

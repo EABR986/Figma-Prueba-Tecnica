@@ -17,11 +17,11 @@ const Base = () => {
             <img className="svgMessage" src="/Vectors/message.svg" />
           </button>
           <button className="navNotification">
-            <img className="svgNotification" src="/Vectors/notification.png" />
+            <img className="svgNotification" src="/Vectors/bell.svg" />
           </button>
           <img className="svgVertical" src="/Vectors/vertical.png" />
           <button className="naUser">
-            <img className="svgUser" src="/Vectors/user.png" />
+            <img className="svgUser" src="/Vectors/Avatar.svg" />
           </button>
         </div>
       </div>
